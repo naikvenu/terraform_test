@@ -7,7 +7,7 @@ provider oci {
 }
 
 data oci_identity_availability_domains this {
-  compartment_id = var.compartment_ocid
+  compartment_id = var.compartment_id
 }
 
 terraform {
