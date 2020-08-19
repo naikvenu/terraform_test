@@ -1,4 +1,4 @@
-## This example will list availability domains on OCI (oracle cloud infrastructure) identity domain
+## This example will list availability domains on OCI (oracle cloud infrastructure) identity domain.
 
 
 ## Using this example
